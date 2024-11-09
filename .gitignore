@@ -1,0 +1,17 @@
+# Ignorar carpetas de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de configuración
+*.ini
+
+# Ignorar archivos de entorno virtual
+# Cambia 'venv' por el nombre de tu carpeta de entorno virtual si es diferente
+venv/
+venv/
+.env/
+
+# Ignorar archivos de logs y temporales
+*.log
+*.tmp
+.DS_Store
